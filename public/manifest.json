@@ -1,0 +1,32 @@
+{
+  "short_name": "MoonshotSniper",
+  "name": "Moonshot Sniper App by Splabs",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0a0a23",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "./",
+  "description": "A Solana-based sniper bot powered by Jupiter to acquire moonshot tokens with precision and
